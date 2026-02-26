@@ -28,3 +28,8 @@ Got questions or want to see the bot in action? Join our official community!
 [![Discord](https://img.shields.ion/discord/1289645978231640094?color=7289da&label=Join%20Our%20Discord&logo=discord&logoColor=white)](https://discord.gg/CWgy3e3m)
 
 b> **Note:** For more info and real-time updates on CLOUD GAMING DISCORD BOT ASSISTANT and also GAMING COMMUNITY, feel free to hop into the server!
+
+## 📱 Connect with the Creator
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@cloudgaming223?_r=1&_t=ZS-94ExHk94xB1)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16q67Ar7FP/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15485200518)
