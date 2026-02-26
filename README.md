@@ -34,3 +34,14 @@ b> **Note:** For more info and real-time updates on CLOUD GAMING DISCORD BOT ASS
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@cloudgaming223?_r=1&_t=ZS-94ExHk94xB1)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16q67Ar7FP/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15485200518)
+
+
+## ⚖️ Disclaimer & License
+
+**Notice to Users:** This bot framework is provided "as-is" without any warranties. By deploying this template, you agree that:
+* **Responsibility:** You are solely responsible for the content, data, and activities of your bot instance.
+* **API Usage:** You must comply with the Terms of Service for Discord and Google (Gemini AI).
+* **Privacy:** Ensure you handle user data according to your local laws (such as GDPR or regional Sahel regulations).
+* **Liability:** The original creator (<@1284944736620253296>) is not liable for any damages, data leaks, or server costs resulting from the use of this code.
+
+**License:** This project is open-source. You are free to modify and redistribute it, but you must maintain the original creator's credits in the `ready` event logic.
