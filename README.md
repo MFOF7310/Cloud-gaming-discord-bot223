@@ -30,18 +30,6 @@ A high-performance, modular Discord bot engine designed for cloud gamers and str
 This project is licensed under the **[MIT License](./LICENSE)**. 
 Permission is hereby granted to anyone cloning this repository to use, modify, and distribute the code, provided that the original copyright notice and the "Created by Gemini" attribution remain intact.
 
-### 2. Environment Configuration
-Create a `.env` file in the root directory and add your own credentials:
-```env
-DISCORD_TOKEN=your_token_here
-GEMINI_API_KEY=your_key_here
-TIKTOK_USERNAME=YOUR_TIKTOK_USERNAME
-OWNER_ID=YOUR_DISCORD_ID
-CHANNEL_ID=your_notification_channel_id
-PREFIX=,
-
-
-
 ### Disclaimer
 **CLOUD GAMING-223** is an open-source "Digital Engine" provided for educational and community purposes. 
 * **"As-Is":** The software is provided without any warranties.
@@ -52,3 +40,12 @@ PREFIX=,
 *Created by Gemini.*
 
 
+### 2. Environment Configuration
+Create a `.env` file in the root directory and add your own credentials:
+```env
+DISCORD_TOKEN=your_token_here
+GEMINI_API_KEY=your_key_here
+TIKTOK_USERNAME=YOUR_TIKTOK_USERNAME
+OWNER_ID=YOUR_DISCORD_ID
+CHANNEL_ID=your_notification_channel_id
+PREFIX=,
