@@ -1,63 +1,52 @@
-# 🎮 CLOUD GAMING-223 | DIGITAL ENGINE
-> **Powered by Starlink 🛰️ | Optimized for Mali 🇲🇱 | AI-Core V2.5**
+# 🛰️ CLOUD GAMING-223 | DIGITAL ENGINE V2.7
+> **Powered by Starlink 🛰️ | Optimized for Mali 🇲🇱 | AI-Core: Gemini 2.0 Flash 🧠**
 
-A high-performance, modular Discord bot engine designed for cloud gamers and streamers. Built with a specialized TikTok monitoring system and custom Google Gemini AI integration.
+The official high-performance Discord engine for the **Cloud Gaming-223** community. Built for speed, gaming competition, and digital sovereignty in the AES region.
 
 ## 🚀 Key Features
-* **🔴 TikTok Live Monitor:** Real-time stream detection with automatic duration tracking.
-* **📦 Modular Engine:** 14+ active modules separated into `/plugins` and `/modules` for maximum speed.
-* **🛡️ Security:** System commands are strictly locked to the Engine Owner ID.
-* **📢 Broadcast:** Global announcement system to reach all connected servers instantly.
-* **🧹 Smart Moderation:** High-speed message purging with temporary system feedback.
-* **🤖 Gemini AI:** Intelligent conversational capabilities powered by Google.
+* **🏆 Gaming Leaderboard:** Multi-game support for **CODM, Free Fire, and PUBG**. Track XP and Server Ranks.
+* **🤖 Gemini 2.0 AI:** Advanced conversational intelligence and **Vision Analysis** for image recognition.
+* **🎙️ Smart Bilingual TTS:** Real-time voice synthesis switching between French (🇫🇷/🇲🇱) and English (🇺🇸).
+* **🌐 Global Translator:** Professional translation node supporting 100+ languages.
+* **🛡️ Hardened Security:** Executive Architect Terminal with zero-vulnerability Axios implementation.
+* **📊 Live Dashboard:** Real-time monitoring of Node Health, Latency, and RAM.
 
-## 🔗 Connect with the Creator
+## 🔗 Connect with the Architect
 * **🔵 Facebook:** [Official Page](https://www.facebook.com/share/17KysmJrtm/)
-* **📱 TikTok:** [cloudgaming223](https://www.tiktok.com/@cloudgaming223)
+* **📱 TikTok:** [@cloudgaming223](https://www.tiktok.com/@cloudgaming223)
 * **📸 Instagram:** [mfof7310](https://www.instagram.com/mfof7310)
-* **💬 WhatsApp:** [Contact Community Support](https://wa.me/15485200518)
-* **📍 Location:** Bamako, Mali
+* **💬 WhatsApp:** [+1 548 520 0518](https://wa.me/15485200518)
+* **📍 Node Location:** Bamako, Mali 🇲🇱
 
-## 🛠️ Setup & Installation (For Cloners)
+## 🛠️ Infrastructure & Setup
 
 ### 1. Requirements
-* Node.js v16.11.0 or higher.
-* Discord Bot Token & Gemini API Key.
+* **Node.js:** v18.17.0 or higher.
+* **Hosting:** Pterodactyl / Linux VPS (Optimized for Starlink).
+* **Environment:** `.env` file must be present in root.
 
-## ⚖️ License & Disclaimer
+## ⚠️ Disclaimer & Liability
 
-### License
-This project is licensed under the **[MIT License](./LICENSE)**. 
-Permission is hereby granted to anyone cloning this repository to use, modify, and distribute the code, provided that the original copyright notice and the "Created by Gemini" attribution remain intact.
+### Usage Warning
+**CLOUD GAMING-223 | DIGITAL ENGINE** is an open-source tool provided for community and educational purposes. 
 
-### Disclaimer
-**CLOUD GAMING-223** is an open-source "Digital Engine" provided for educational and community purposes. 
-* **"As-Is":** The software is provided without any warranties.
-* **Liability:** The creator (CLOUD GAMING-223) is not responsible for any data loss, account bans (TikTok/Discord), or server instability caused by the use of this code.
-* **Starlink/Network:** Performance may vary based on your local ISP or satellite connection stability.
+* **Account Safety:** The Architect is not responsible for any bans or restrictions placed on your Discord or TikTok accounts resulting from the use of this software.
+* **No Warranty:** This software is provided "as-is" without any guarantees regarding uptime, Starlink stability, or API availability.
+* **Data Privacy:** Users are responsible for securing their own `.env` files. Never share your Bot Token or API Keys.
 
----
-*Created by Gemini.*
+### Digital Sovereignty
+This project is built to support the **AES (Alliance of Sahel States)** gaming community. Use it respectully and in accordance with local digital regulations in Mali 🇲🇱.
+
 
 
 ### 2. Environment Configuration
-Create a `.env` file in the root directory and add your own credentials:
 ```env
-# ---  CREDENTIALS ---
-DISCORD_TOKEN=your_discord_token_id
-GEMINI_API_KEY=your_gemini_api_key
-WEATHER_API_KEY=your_weather_api_key
+# --- CREDENTIALS ---
+DISCORD_TOKEN=your_token_here
+GEMINI_API_KEY=your_gemini_key_here
+WEATHER_API_KEY=your_weather_key_here
 
-# --- OWNER & SYSTEM ---
-OWNER_ID=your_discord_owner_id
-WELCOME_CHANNEL=your_welcome_channel_id
-LOG_CHANNEL_ID=your_log_channel_id
-MEMBER_ROLE=your_member_role_id
+# --- SYSTEM CONFIG ---
 PREFIX=,
-
-# --- Tiktok Livestream Notification ---
-TIKTOK_USERNAME=your_tiktok_username_without_@
-CHANNEL_ID=your_channel_id 
-
-# --- Support Link --- do not modify this part 
-SUPPORT_LINK=https://discord.gg/Ndenbr6kev 
+ARCHITECT_ID=1284944736620253296
+SUPPORT_LINK=[https://discord.gg/Ndenbr6kev](https://discord.gg/Ndenbr6kev)
