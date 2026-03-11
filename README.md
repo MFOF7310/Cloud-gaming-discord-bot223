@@ -1,18 +1,4 @@
----
-
 🤖 Cloud Gaming-223 Bot
-
-<div align="center">
-  <img src="https://img.shields.io/badge/version-2.6.0-blue.svg" alt="Version 2.6.0">
-  <img src="https://img.shields.io/badge/node-%3E%3D18.x-green.svg" alt="Node Version">
-  <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="License">
-  <img src="https://img.shields.io/badge/Made%20in-Mali%20🇲🇱-gold.svg" alt="Made in Mali">
-</div>
-
-<p align="center">
-  <b>The official Discord bot for Cloud Gaming-223 community</b><br>
-  Powered by Groq AI & Gemini Vision • Built with Node.js • Deployed on Bamako Node 🇲🇱
-</p>
 
 ✨ Features
 
